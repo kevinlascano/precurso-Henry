@@ -1,2 +1,2 @@
-# precurso-Henry
-este es un repositorio de prueba del modulo 2 de henry
+kevin lascano 
+este proyecto es una prueb de como crear un repositporio y clonarlo desde git bash a mi computadora
